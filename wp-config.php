@@ -23,10 +23,10 @@
 define('DB_NAME', 'ef');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'azure');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'YES');
 
 /** Имя сервера MySQL */
 define('DB_HOST', 'localdb');
