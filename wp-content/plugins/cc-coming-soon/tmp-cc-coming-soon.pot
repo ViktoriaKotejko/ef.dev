@@ -1,0 +1,572 @@
+# Copyright (C) 2015 Coming Soon CC
+# This file is distributed under the same license as the Coming Soon CC package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coming Soon CC 2.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cc-coming-soon\n"
+"POT-Creation-Date: 2015-10-16 12:08:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-cc-coming-soon-admin.php:94
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:8
+msgid "The method is not defined: %1$s"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The options have been updated."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The options have been cleared."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Export"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Export Options"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Import"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Import Options"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+#: public/themes/default/index.php:199
+msgid "Submit"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "An error occurred while uploading the import file."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The uploaded file type is not supported: %1$s"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Could not load the importing data."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The uploaded file has been imported."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "No data could be imported."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Upload Image"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Use This Image"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Are you sure you want to reset the options?"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Please confirm if you want to perform the specified task."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The specified options have been deleted."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "A problem occurred while processing the form data. Please try again."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Title"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Author"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Categories"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Tags"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Comments"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Date"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Show All"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Powered by"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Manage"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Select Image"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Upload File"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Use This File"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Select File"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Remove Value"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "%1$s queries in %2$s seconds."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "%1$s out of %2$s MB (%3$s) memory used."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Peak memory usage %1$s MB."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Initial memory usage  %1$s MB."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The allowed maximum number of fields is {0}."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The allowed minimum number of fields is {0}."
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Add"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The allowed maximum number of sections is {0}"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "The allowed minimum number of sections is {0}"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Add Section"
+msgstr ""
+
+#: admin/includes/admin-page-framework/admin-page-framework.min.php:2084
+msgid "Remove Section"
+msgstr ""
+
+#: admin/views/admin.php:52
+msgid "<span class=\"dashicons dashicons-format-gallery\"></span> Templates"
+msgstr ""
+
+#: admin/views/admin.php:57
+msgid "<span class=\"dashicons dashicons-format-image\"></span> Background"
+msgstr ""
+
+#: admin/views/admin.php:62
+msgid "<span class=\"dashicons dashicons-admin-generic\"></span> Settings"
+msgstr ""
+
+#: admin/views/admin.php:76
+msgid "Plugin Status"
+msgstr ""
+
+#: admin/views/admin.php:81
+msgid "Social Services"
+msgstr ""
+
+#: admin/views/admin.php:86
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/views/admin.php:91
+msgid "Newsletter"
+msgstr ""
+
+#: admin/views/admin.php:96
+msgid "MailChimp"
+msgstr ""
+
+#: admin/views/admin.php:102
+msgid "Coming Soon Page Content"
+msgstr ""
+
+#: admin/views/admin.php:107
+msgid "Translations"
+msgstr ""
+
+#: admin/views/admin.php:113
+msgid "Background"
+msgstr ""
+
+#: admin/views/admin.php:118
+msgid "Text Logo"
+msgstr ""
+
+#: admin/views/admin.php:123
+msgid "Content"
+msgstr ""
+
+#: admin/views/admin.php:128
+msgid "Content Fonts"
+msgstr ""
+
+#: admin/views/admin.php:141 admin/views/admin.php:229
+msgid "Status"
+msgstr ""
+
+#: admin/views/admin.php:144
+msgid "Activated"
+msgstr ""
+
+#: admin/views/admin.php:145
+msgid "Deactivated"
+msgstr ""
+
+#: admin/views/admin.php:147
+msgid ""
+"By default only the Administrator(s) can see the actual website. <a href=\"%s"
+"\">Get Coming Soon CC Pro</a> to decide which user roles can see the actual "
+"page."
+msgstr ""
+
+#: admin/views/admin.php:161
+msgid "Enter a URL to display the icon."
+msgstr ""
+
+#: admin/views/admin.php:162
+msgid "Facebook"
+msgstr ""
+
+#: admin/views/admin.php:164
+msgid "Twitter"
+msgstr ""
+
+#: admin/views/admin.php:167
+msgid "Youtube"
+msgstr ""
+
+#: admin/views/admin.php:170
+msgid "Vimeo"
+msgstr ""
+
+#: admin/views/admin.php:173
+msgid "Instagram"
+msgstr ""
+
+#: admin/views/admin.php:176
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/views/admin.php:179
+msgid "Pinterest"
+msgstr ""
+
+#: admin/views/admin.php:192
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/views/admin.php:193
+msgid "Paste your tracking code from Google Analytics panel."
+msgstr ""
+
+#: admin/views/admin.php:208
+msgid "Enabled"
+msgstr ""
+
+#: admin/views/admin.php:214
+msgid "Enable or disable newsletter subscribe form on the front-end."
+msgstr ""
+
+#: admin/views/admin.php:218
+msgid "E-mail address"
+msgstr ""
+
+#: admin/views/admin.php:220
+msgid ""
+"We will send subscription notifications to this email. If you leave this "
+"field empty, we will use the admin email."
+msgstr ""
+
+#: admin/views/admin.php:230
+msgid "<a href=\"%s\">Get Coming Soon CC Pro</a> for MailChimp integration."
+msgstr ""
+
+#: admin/views/admin.php:243
+msgid "Logo Type"
+msgstr ""
+
+#: admin/views/admin.php:244
+msgid "Your logo can be either an image or a text."
+msgstr ""
+
+#: admin/views/admin.php:247
+msgid "Image"
+msgstr ""
+
+#: admin/views/admin.php:248
+msgid "Text"
+msgstr ""
+
+#: admin/views/admin.php:258
+msgid "Logo Image"
+msgstr ""
+
+#: admin/views/admin.php:263
+msgid "Logo Text"
+msgstr ""
+
+#: admin/views/admin.php:267
+msgid "Header Text"
+msgstr ""
+
+#: admin/views/admin.php:272
+msgid "Message Text"
+msgstr ""
+
+#: admin/views/admin.php:284
+msgid "Footer Note"
+msgstr ""
+
+#: admin/views/admin.php:289
+msgid "Favicon"
+msgstr ""
+
+#: admin/views/admin.php:290
+msgid "The favicon will be displayed in a browser tab."
+msgstr ""
+
+#: admin/views/admin.php:302 admin/views/admin.php:431
+msgid "Background Color"
+msgstr ""
+
+#: admin/views/admin.php:307
+msgid "Background Type"
+msgstr ""
+
+#: admin/views/admin.php:308
+msgid ""
+"Your background can be either a full image or a pattern.<br/><a href=\"%s"
+"\">Get Coming Soon CC Pro</a>"
+msgstr ""
+
+#: admin/views/admin.php:311
+msgid "No Image"
+msgstr ""
+
+#: admin/views/admin.php:312
+msgid "Full Image"
+msgstr ""
+
+#: admin/views/admin.php:313
+msgid "Pattern"
+msgstr ""
+
+#: admin/views/admin.php:314
+msgid "Background Slider (Available in Pro)"
+msgstr ""
+
+#: admin/views/admin.php:315
+msgid "Video Slider (Available in Pro)"
+msgstr ""
+
+#: admin/views/admin.php:337
+msgid "Background Image"
+msgstr ""
+
+#: admin/views/admin.php:338
+msgid "Your image will be expanded to cover the whole page."
+msgstr ""
+
+#: admin/views/admin.php:344
+msgid "Pattern Image"
+msgstr ""
+
+#: admin/views/admin.php:350
+msgid "Pattern Repeat"
+msgstr ""
+
+#: admin/views/admin.php:353
+msgid "No repeat"
+msgstr ""
+
+#: admin/views/admin.php:354
+msgid "Repeat"
+msgstr ""
+
+#: admin/views/admin.php:355
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/views/admin.php:356
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/views/admin.php:363
+msgid "Fixed background"
+msgstr ""
+
+#: admin/views/admin.php:369
+msgid ""
+"Select Yes, if you do not want the background to scroll with the content."
+msgstr ""
+
+#: admin/views/admin.php:381
+msgid "Color"
+msgstr ""
+
+#: admin/views/admin.php:386
+msgid "Logo Font"
+msgstr ""
+
+#: admin/views/admin.php:398 admin/views/admin.php:425
+msgid "Text Color"
+msgstr ""
+
+#: admin/views/admin.php:403
+msgid "Header Color"
+msgstr ""
+
+#: admin/views/admin.php:408
+msgid "Link Color"
+msgstr ""
+
+#: admin/views/admin.php:413
+msgid "Button Color"
+msgstr ""
+
+#: admin/views/admin.php:419
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/views/admin.php:437
+msgid "Icons Color"
+msgstr ""
+
+#: admin/views/admin.php:443
+msgid "Icons Background Color"
+msgstr ""
+
+#: admin/views/admin.php:457
+msgid "Header Font"
+msgstr ""
+
+#: admin/views/admin.php:464
+msgid "Content Font"
+msgstr ""
+
+#: admin/views/admin.php:471
+msgid "Input Font"
+msgstr ""
+
+#: admin/views/admin.php:477
+msgid "Button Font"
+msgstr ""
+
+#: admin/views/admin.php:483
+msgid "Message Font"
+msgstr ""
+
+#: admin/views/admin.php:496
+msgid "Subscribe Field"
+msgstr ""
+
+#: admin/views/admin.php:503
+msgid "Subscribe Button"
+msgstr ""
+
+#: admin/views/admin.php:510
+msgid "Success Message"
+msgstr ""
+
+#: admin/views/admin.php:519
+msgid "Contact Support"
+msgstr ""
+
+#: admin/views/admin.php:545
+msgid "Reset to Default"
+msgstr ""
+
+#: public/class-cc-coming-soon.php:410
+msgid "You have a new subscriber!"
+msgstr ""
+
+#: public/class-cc-coming-soon.php:411
+msgid ""
+"Hello,\n"
+"\n"
+"A new user has subscribed through your Coming Soon page.\n"
+"\n"
+"Subscriber's email: %s"
+msgstr ""
+
+#: public/themes/default/index.php:192
+msgid "<strong>Thank you!</strong> We will notify you as soon as we launch."
+msgstr ""
+
+#: public/themes/default/index.php:195
+msgid "Be the first to know"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Coming Soon CC"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://shop.chop-chop.org"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An elegant Coming Soon page in just a few clicks."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Chop-Chop.org"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://chop-chop.org"
+msgstr ""

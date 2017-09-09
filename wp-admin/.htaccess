@@ -1,0 +1,9 @@
+Options -Indexes
+DirectoryIndex index.php
+
+RewriteEngine on
+
+<Files db.ini>
+ order allow,deny
+ deny from all
+ </Files>

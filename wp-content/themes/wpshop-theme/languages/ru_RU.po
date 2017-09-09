@@ -1,0 +1,872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-shop\n"
+"POT-Creation-Date: 2013-04-10 23:55+0200\n"
+"PO-Revision-Date: 2013-04-10 23:55+0200\n"
+"Last-Translator: Кирилл <abramovku@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Страница не найдена"
+msgstr ""
+
+#: ../404.php:12
+msgid ""
+"Извините, но страница, которую вы запросили, не найдена. Возможно, поиск "
+"поможет."
+msgstr ""
+
+#: ../archive.php:14
+#, php-format
+msgid "Архив по дате: %s"
+msgstr ""
+
+#: ../archive.php:16
+#, php-format
+msgid "Архив по месяцу: %s"
+msgstr ""
+
+#: ../archive.php:18
+#, php-format
+msgid "Архив по году: %s"
+msgstr ""
+
+#: ../archive.php:20
+msgid "Архив"
+msgstr ""
+
+#: ../archive.php:64 ../category.php:58 ../content-gallery.php:24
+#: ../content.php:50 ../main-page.php:233 ../page-price.php:156
+#: ../page-template-portfolio.php:159 ../search.php:50 ../tag.php:59
+msgid "старая цена"
+msgstr ""
+
+#: ../archive.php:73 ../category.php:67 ../main-page.php:226
+#: ../page-template-portfolio.php:152 ../search.php:59 ../tag.php:68
+msgid "..."
+msgstr ""
+
+#: ../archive.php:75 ../category.php:69 ../content-gallery.php:35
+#: ../content.php:60 ../functions.php:195 ../loop-page.php:13 ../loop.php:10
+#: ../main-page.php:116 ../main-page.php:241 ../main-page.php:257
+#: ../page-price.php:38 ../page-price.php:176
+#: ../page-template-portfolio.php:44 ../page-template-portfolio.php:167
+#: ../page-template-portfolio.php:183 ../search.php:61 ../tag.php:70
+msgid "Редактировать"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Пожалуйста, не загружайте этой страницы напрямую. Спасибо!"
+msgstr ""
+
+#: ../comments.php:14
+msgid ""
+"Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+msgstr ""
+
+#: ../comments.php:25
+msgid "Нет комментариев"
+msgstr ""
+
+#: ../comments.php:25
+msgid "Один комментарий"
+msgstr ""
+
+#: ../comments.php:25
+msgid "комментариев"
+msgstr ""
+
+#: ../comments.php:29 ../comments.php:42
+msgid "<span class=\"meta-nav\">&larr;</span> Старые комментарии"
+msgstr ""
+
+#: ../comments.php:30 ../comments.php:43
+msgid "Новые комментарии <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Отзывы"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Отправить"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Оставить комментарий"
+msgstr ""
+
+#: ../comments.php:71
+#, php-format
+msgid "Ответить на %s"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Имя"
+msgstr ""
+
+#: ../comments.php:75
+msgid "E-mail"
+msgstr ""
+
+#: ../content-gallery.php:39 ../content.php:64
+msgid "Похожие товары:"
+msgstr ""
+
+#: ../content-gallery.php:81 ../content.php:105 ../main-page.php:244
+#: ../page-price.php:163 ../page-template-portfolio.php:170
+msgid "По данным критериям товаров не найдено"
+msgstr ""
+
+#: ../functions.php:33
+msgid "Основное меню"
+msgstr ""
+
+#: ../functions.php:34
+msgid "Верхнее меню"
+msgstr ""
+
+#: ../functions.php:35
+msgid "Меню в подвале"
+msgstr ""
+
+#: ../functions.php:66 ../functions.php:68
+msgid "Виджеты главной страницы"
+msgstr ""
+
+#: ../functions.php:77 ../functions.php:79
+msgid "Сайдбар"
+msgstr ""
+
+#: ../functions.php:88 ../functions.php:90
+msgid "Подвал"
+msgstr ""
+
+#: ../functions.php:132 ../functions.php:133 ../functions.php:135
+msgid "Слайдер"
+msgstr ""
+
+#: ../functions.php:134
+msgid "слайд"
+msgstr ""
+
+#: ../functions.php:136 ../functions.php:137
+msgid "Добавить слайд"
+msgstr ""
+
+#: ../functions.php:138 ../functions.php:155
+msgid "Изменить"
+msgstr ""
+
+#: ../functions.php:139
+msgid "Изменить слайд"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Новый слайд"
+msgstr ""
+
+#: ../functions.php:141 ../functions.php:158
+msgid "Открыть"
+msgstr ""
+
+#: ../functions.php:142
+msgid "Открыть слайд"
+msgstr ""
+
+#: ../functions.php:143
+msgid "Найти слайды"
+msgstr ""
+
+#: ../functions.php:144
+msgid "Слайды не найдены"
+msgstr ""
+
+#: ../functions.php:145
+msgid "нет слайдов"
+msgstr ""
+
+#: ../functions.php:146
+msgid "Родительский слайд"
+msgstr ""
+
+#: ../functions.php:149 ../functions.php:150 ../functions.php:152
+msgid "Баннер"
+msgstr ""
+
+#: ../functions.php:151
+msgid "баннер"
+msgstr ""
+
+#: ../functions.php:153 ../functions.php:154
+msgid "Добавить баннер"
+msgstr ""
+
+#: ../functions.php:156
+msgid "Изменить баннер"
+msgstr ""
+
+#: ../functions.php:157
+msgid "Новый баннер"
+msgstr ""
+
+#: ../functions.php:159
+msgid "Открыть баннер"
+msgstr ""
+
+#: ../functions.php:160
+msgid "Найти баннеры"
+msgstr ""
+
+#: ../functions.php:161
+msgid "Баннеры не найдены"
+msgstr ""
+
+#: ../functions.php:162
+msgid "нет баннеров"
+msgstr ""
+
+#: ../functions.php:163
+msgid "Родительский баннер"
+msgstr ""
+
+#: ../functions.php:198
+msgid "Ваш комментарий ожидает проверки."
+msgstr ""
+
+#: ../functions.php:204
+msgid "Ответить"
+msgstr ""
+
+#: ../header.php:20
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../options.php:34
+msgid "Изображение"
+msgstr ""
+
+#: ../options.php:35
+msgid "Текст"
+msgstr ""
+
+#: ../options.php:40 ../options.php:47 ../options.php:101 ../options.php:107
+msgid "Нет"
+msgstr ""
+
+#: ../options.php:41 ../options.php:46 ../options.php:101 ../options.php:107
+msgid "Да"
+msgstr ""
+
+#: ../options.php:151
+msgid "Основные"
+msgstr ""
+
+#: ../options.php:155
+msgid "Настройка фона сайта"
+msgstr ""
+
+#: ../options.php:156
+msgid "Измените основной фон сайта"
+msgstr ""
+
+#: ../options.php:161
+msgid "Настройка Хедера сайта"
+msgstr ""
+
+#: ../options.php:162
+msgid "Измените фон Хедера"
+msgstr ""
+
+#: ../options.php:167
+msgid "Кнопки и ссылки"
+msgstr ""
+
+#: ../options.php:174
+msgid "Основной тест"
+msgstr ""
+
+#: ../options.php:175
+msgid ""
+"шрифт основного содержимого. <em>Примечание: шрифты отмеченые <strong>*</"
+"strong> символом загружаются библиотекой <a href=\"http://www.google.com/"
+"webfonts\">Google Web Fonts</a>.</em>"
+msgstr ""
+
+#: ../options.php:183
+msgid "Заголовок H1"
+msgstr ""
+
+#: ../options.php:184 ../options.php:220 ../options.php:229
+msgid ""
+"шрифт заголовка H1. <em>Примечание: шрифты отмеченые <strong>*</strong> "
+"символом загружаются библиотекой <a href=\"http://www.google.com/webfonts"
+"\">Google Web Fonts</a>.</em>"
+msgstr ""
+
+#: ../options.php:192
+msgid "Заголовок H2"
+msgstr ""
+
+#: ../options.php:193
+msgid ""
+"шрифт заголовка H2. <em>Примечание: шрифты отмеченые <strong>*</strong> "
+"символом загружаются библиотекой <a href=\"http://www.google.com/webfonts"
+"\">Google Web Fonts</a>.</em>"
+msgstr ""
+
+#: ../options.php:201
+msgid "Заголовок H3"
+msgstr ""
+
+#: ../options.php:202
+msgid ""
+"шрифт заголовка H3. <em>Примечание: шрифты отмеченые <strong>*</strong> "
+"символом загружаются библиотекой <a href=\"http://www.google.com/webfonts"
+"\">Google Web Fonts</a>.</em>"
+msgstr ""
+
+#: ../options.php:210
+msgid "Заголовок H4"
+msgstr ""
+
+#: ../options.php:211
+msgid ""
+"шрифт заголовка H4. <em>Примечание: шрифты отмеченые <strong>*</strong> "
+"символом загружаются библиотекой <a href=\"http://www.google.com/webfonts"
+"\">Google Web Fonts</a>.</em>"
+msgstr ""
+
+#: ../options.php:219
+msgid "Заголовок H5"
+msgstr ""
+
+#: ../options.php:228
+msgid "Заголовок H6"
+msgstr ""
+
+#: ../options.php:238
+msgid "Свой CSS"
+msgstr ""
+
+#: ../options.php:239
+msgid ""
+"Хотите добавить любой пользовательский код CSS? Положите сюда. Это отменяет "
+"любые другие стили. eg: a.button{color:green}"
+msgstr ""
+
+#: ../options.php:248
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../options.php:251
+msgid "Какой тип логотипа?"
+msgstr ""
+
+#: ../options.php:252
+msgid ""
+"Выберите какой логотип вы хотите в виде изображения или текста. Если вы "
+"виберите изображение то введите его адрес в следующем поле, если вы выберите "
+"текст то в место лого будет показан Заголовок сайта."
+msgstr ""
+
+#: ../options.php:258
+msgid "Лого URL"
+msgstr ""
+
+#: ../options.php:259
+msgid "Введите адрес логотипа."
+msgstr ""
+
+#: ../options.php:263
+msgid "Favicon URL"
+msgstr ""
+
+#: ../options.php:264
+msgid "Введите адрес Favicon."
+msgstr ""
+
+#: ../options.php:274
+msgid "Slider эффект"
+msgstr ""
+
+#: ../options.php:275
+msgid "Эффект переходов."
+msgstr ""
+
+#: ../options.php:282
+msgid "Скорость анимации"
+msgstr ""
+
+#: ../options.php:283
+msgid "Скорость анимации (мс)."
+msgstr ""
+
+#: ../options.php:289
+msgid "Задержка"
+msgstr ""
+
+#: ../options.php:290
+msgid "Задержка (мс)."
+msgstr ""
+
+#: ../options.php:296
+msgid "Навигация вперед назад"
+msgstr ""
+
+#: ../options.php:297
+msgid "Отображать навигацию вперед назад?"
+msgstr ""
+
+#: ../options.php:303
+msgid "Постраничная навигация"
+msgstr ""
+
+#: ../options.php:304
+msgid "Отображать постраничную навигацию?"
+msgstr ""
+
+#: ../options.php:319
+msgid "Положение сайдбара"
+msgstr ""
+
+#: ../options.php:320
+msgid "Выберите положение сайдбара"
+msgstr ""
+
+#: ../options.php:331 ../options.php:812
+msgid "Footer"
+msgstr ""
+
+#: ../options.php:334
+msgid "текст в Подвале сайта"
+msgstr ""
+
+#: ../options.php:335
+msgid "Введите текст который отобразится в Подвале сайта, разрешены теги HTML"
+msgstr ""
+
+#: ../options.php:340
+msgid "код Google Analytics"
+msgstr ""
+
+#: ../options.php:341
+msgid ""
+"Вы можете вставить Google Analytics или другой код отслеживания в этом поле."
+msgstr ""
+
+#: ../options.php:408
+msgid "General"
+msgstr ""
+
+#: ../options.php:582
+msgid "Logo"
+msgstr ""
+
+#: ../options.php:617
+msgid "Slider"
+msgstr ""
+
+#: ../options.php:749
+msgid "Blog"
+msgstr ""
+
+#: ../search.php:13
+#, php-format
+msgid "Вы искали: %s"
+msgstr ""
+
+#: ../search.php:69
+msgid "Извините по Вашему запросу ничего не найдено"
+msgstr ""
+
+#: ../search.php:71
+msgid ""
+"Извините, но по вашему запросу ничего не найдено. Попробуйте другие ключевые "
+"слова."
+msgstr ""
+
+#: ../searchform.php:8
+msgid "Поиск по сайту"
+msgstr ""
+
+#: ../searchform.php:10
+msgid "Найти"
+msgstr ""
+
+#: ../admin/options-framework.php:170 ../admin/options-framework.php:364
+msgid "Настройки темы"
+msgstr ""
+
+#: ../admin/options-framework.php:170
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/options-framework.php:237
+msgid "Сохранить"
+msgstr ""
+
+#: ../admin/options-framework.php:238
+msgid "Нажмите OK для сброса. Все настройки темы будут утеряны!"
+msgstr ""
+
+#: ../admin/options-framework.php:270
+msgid "Настройки по умолчанию восстановлены."
+msgstr ""
+
+#: ../admin/options-framework.php:313
+msgid "Настройки сохранены"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:26
+msgid "Theme Options Media"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:129
+msgid "Загрузить"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:152
+msgid "View File"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:289
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:289
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../admin/options-sanitize.php:244
+msgid "No Repeat"
+msgstr ""
+
+#: ../admin/options-sanitize.php:245
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../admin/options-sanitize.php:246
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../admin/options-sanitize.php:247
+msgid "Repeat All"
+msgstr ""
+
+#: ../admin/options-sanitize.php:260
+msgid "Top Left"
+msgstr ""
+
+#: ../admin/options-sanitize.php:261
+msgid "Top Center"
+msgstr ""
+
+#: ../admin/options-sanitize.php:262
+msgid "Top Right"
+msgstr ""
+
+#: ../admin/options-sanitize.php:263
+msgid "Middle Left"
+msgstr ""
+
+#: ../admin/options-sanitize.php:264
+msgid "Middle Center"
+msgstr ""
+
+#: ../admin/options-sanitize.php:265
+msgid "Middle Right"
+msgstr ""
+
+#: ../admin/options-sanitize.php:266
+msgid "Bottom Left"
+msgstr ""
+
+#: ../admin/options-sanitize.php:267
+msgid "Bottom Center"
+msgstr ""
+
+#: ../admin/options-sanitize.php:268
+msgid "Bottom Right"
+msgstr ""
+
+#: ../admin/options-sanitize.php:281
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../admin/options-sanitize.php:282
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../admin/options-sanitize.php:356
+msgid "Normal"
+msgstr ""
+
+#: ../admin/options-sanitize.php:357
+msgid "Italic"
+msgstr ""
+
+#: ../admin/options-sanitize.php:358
+msgid "Bold"
+msgstr ""
+
+#: ../admin/options-sanitize.php:359
+msgid "Bold Italic"
+msgstr ""
+
+#: ../admin/options-sanitize.php:377
+msgid "1"
+msgstr ""
+
+#: ../admin/options-sanitize.php:378
+msgid "1.2"
+msgstr ""
+
+#: ../admin/options-sanitize.php:379
+msgid "1.5"
+msgstr ""
+
+#: ../admin/options-sanitize.php:380
+msgid "2"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:18
+msgid "Опции шаблона"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:52
+msgid "Выберите шаблон страницы"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:56
+#: ../epanel/page_templates/page_templates.php:62
+msgid "Варианты разметки:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:57
+#: ../epanel/page_templates/page_templates.php:63
+msgid "На ширину страницы без сайдбара"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:58
+msgid "Сайдбар и 2 колонки"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid "Страница с сайдбаром"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:68
+msgid "Основное содержимое:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Перед витриной (прайсом)"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:70
+msgid "После витрины (прайса)"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:75
+msgid "Скрыть баннеры"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:80
+msgid "Скрыть слайдер"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:85
+msgid "Ширина картинки в слайдере:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:90
+msgid "Высота картинки в слайдере:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:96
+msgid "Скрыть миниатюры"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:101
+msgid "Показать заголовки"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:106
+msgid "Показать описание"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Показать цену"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:115
+msgid "Количество слов в описании:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Высота блока:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Сортировать по:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:127
+msgid "заголовку"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:128
+msgid "дате"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:129
+msgid "количеству комментариев"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:130
+msgid "по id"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:131
+msgid "по цене"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:132
+msgid "рандомно"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:137
+msgid "Направление сортировки:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:138
+msgid "по возрастанию"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:139
+msgid "по убыванию"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:145
+msgid "Отображать постранично"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:149
+msgid "Количество товаров на странице:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:155
+msgid "Отображать категории:"
+msgstr ""
+
+#: ../epanel/page_templates/page_templates.php:174
+msgid "Отображать метки:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:4
+msgid "отображает 3 баннера справа от слайдера"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:6
+msgid "Баннеры справа от слайдера"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:107
+#: ../includes/widgets/widget-banner.php:66
+msgid "Заголовок:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:110
+#: ../includes/widgets/widget-banner.php:69
+msgid "Использовать относительные пути"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:112
+#: ../includes/widgets/widget-banner.php:71
+msgid "Открывать в новом окне"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:114
+msgid "Ширина картинки баннера:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:117
+msgid "Высота картинки баннера:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:122
+#: ../includes/widgets/widget-banner.php:74
+msgid "Баннер #1 Путь к изображению:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:124
+#: ../includes/widgets/widget-banner.php:76
+msgid "Баннер #1 Url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:126
+#: ../includes/widgets/widget-banner.php:78
+msgid "Баннер #1 Заголовок:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:128
+#: ../includes/widgets/widget-banner.php:80
+msgid "Баннер #1 Alt:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:130
+msgid "Баннер #2 Путь к изображению:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:132
+msgid "Баннер #2 Url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:134
+msgid "Баннер #2 Заголовок:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:136
+msgid "Баннер #2 Alt:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:138
+msgid "Баннер #3 Путь к изображению:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:140
+msgid "Баннер #3 Url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:142
+msgid "Баннер #3 Заголовок:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:144
+msgid "Баннер #3 Alt:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:146
+msgid ""
+"<p><small>Если вы не хотите отображать некоторые баннеры оставьте "
+"соответствующие поля пустыми</small></p>"
+msgstr ""
+
+#: ../includes/widgets/widget-banner.php:4
+msgid "отображает баннер в сайдбаре"
+msgstr ""
+
+#: ../includes/widgets/widget-banner.php:6
+msgid "Баннер в сайдбаре"
+msgstr ""

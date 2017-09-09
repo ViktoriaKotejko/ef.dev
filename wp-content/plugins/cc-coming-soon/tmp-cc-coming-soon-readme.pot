@@ -1,0 +1,310 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Coming Soon CC"
+msgstr ""
+
+#. Short description.
+msgid "Coming Soon page with professional templates."
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=default\">Default Coming Soon Page (Free)</a>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=chic\">Chic Coming Soon Page (Pro)</a>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=calm\">Calm Coming Soon Page (Pro)</a>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=stylish\">Stylish Coming Soon Page (Pro)</a>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=mobility\">Mobility Coming Soon Page (Pro)</a>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=fitness\">Fitness Coming Soon Page (Pro)</a>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<a href=\"https://shop.chop-chop.org/?utm_source=free-plugin&amp;utm_medium=link&amp;utm_campaign=available-in-pro\">Available templates (Pro)</a>"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin panel"
+msgstr ""
+
+#. Screenshot description.
+msgid "Visual editor"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=default\">Beautiful design</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom visual editor"
+msgstr ""
+
+#. Found in description list item.
+msgid "Works with all WordPress themes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive HTML5/CSS3 layout"
+msgstr ""
+
+#. Found in description list item.
+msgid "Quick and easy setup"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom look and feel without coding"
+msgstr ""
+
+#. Found in description list item.
+msgid "Highly customizable"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Fonts integration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Social media support (Facebook, Twitter, Vimeo, YouTube, Instagram)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Analytics integration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Email notifications"
+msgstr ""
+
+#. Found in description list item.
+msgid "SEO and Meta options"
+msgstr ""
+
+#. Found in description list item.
+msgid "Six professional <a href=\"https://shop.chop-chop.org/?utm_source=free-plugin&amp;utm_medium=link&amp;utm_campaign=available-in-pro\">landing page designs</a> - spice up your Coming Soon page"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=default\">Default Coming Soon Page</a> - clean and versatile typographic template"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=stylish\">Stylish Coming Soon Page</a> - perfect for fashion lovers"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=mobility\">Mobility Coming Soon Page</a> - show your custom app preview on the phone screen!"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=calm\">Calm Coming Soon Page</a> - a gentle waiting mood"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=chic\">Chic Coming Soon Page</a> - elegant and alluring"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=fitness\">Fitness Coming Soon Page</a> - pump up your fitness startup"
+msgstr ""
+
+#. Found in description list item.
+msgid "Video background"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slideshow background"
+msgstr ""
+
+#. Found in description list item.
+msgid "Storing emails in WordPress database"
+msgstr ""
+
+#. Found in description list item.
+msgid "MailChimp integration"
+msgstr ""
+
+#. Found in description list item.
+msgid "GetResponse integration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Campaign Monitor integration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google AdWords conversion code integration"
+msgstr ""
+
+#. Found in description list item.
+msgid "Access control (access by role, access by page)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Coming Soon CC comes with a beautiful professional default template which you can fully customize to your needs with our amazing visual editor. It's simple and flexible and works with any WordPress theme."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Live preview: <a href=\"https://shop.chop-chop.org/demo/cc-coming-soon-pro/?template=default\">Default Coming Soon Page</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Coming Soon CC allows you to create an elegant coming soon or launch page quickly and effortlessly. Make your site neat and stylish while it's under construction – work on your webpage when your visitors see an alluring landing page. Collect your visitors' emails and let them know when your website is launched."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "A good coming soon page is profitable for both start-ups and bigger companies to test their value hypotheses."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Features:</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "...and more."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Upgrade to Coming Soon CC Pro for more fantastic options:</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://shop.chop-chop.org/?utm_source=free-plugin&amp;utm_medium=link&amp;utm_campaign=available-in-pro\">Get Coming Soon CC Pro with more beautiful designs</a>"
+msgstr ""
+
+#. Found in installation header.
+msgid "Using The WordPress Dashboard"
+msgstr ""
+
+#. Found in installation header.
+msgid "Uploading in WordPress Dashboard"
+msgstr ""
+
+#. Found in installation header.
+msgid "Using FTP"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to the 'Add New' in the plugins dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for 'cc-coming-soon'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click 'Install Now'"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin on the Plugin dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Settings &gt; Coming Soon CC to configure the plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to the 'Upload' area"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select <code>cc-coming-soon.zip</code> from your computer"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin in the Plugin dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download <code>cc-coming-soon.zip</code>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Extract the <code>cc-coming-soon</code> directory to your computer"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>cc-coming-soon</code> directory to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fix: Fonts"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fix: Thank You message css"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fix: Missing customize button when Visual Composer is installed"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fix: Form placeholder live preview"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Pinterest icon"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Change: admin panel labels"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "The options to change colors of buttons and icons"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Admin page blocking fixed"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "WP 4.0 compatibility"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "First release"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>1. Why can't I see my Coming Soon page?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Coming soon page is visible only to unlogged users, so that you can work on your website and show coming soon page to your visitors."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you are logged out and still can't see your coming soon page, try clearing your browser's cache or opening the page in another browser."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>2. How can I enable the additional templates?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The additional templates are available in the premium version. Get it here: https://shop.chop-chop.org to activate more themes."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>3. Questions? Comments?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Contact shop@chop-chop.org if you have any questions or wish to provide feedback."
+msgstr ""
