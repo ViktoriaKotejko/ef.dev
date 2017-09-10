@@ -29,7 +29,7 @@ define('DB_USER', 'azure');
 define('DB_PASSWORD', 'YES');
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'localdb');
+define('DB_HOST', 'MYSQLCONNSTR_localdb');
 
 /** Кодировка базы данных для создания таблиц. */
 define('DB_CHARSET', 'utf8');
