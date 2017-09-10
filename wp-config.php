@@ -26,10 +26,10 @@ define('DB_NAME', 'ef');
 define('DB_USER', 'azure');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', 'YES');
+define('DB_PASSWORD', 'password');
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'MYSQLCONNSTR_localdb');
+define('DB_HOST', 'localdb');
 
 /** Кодировка базы данных для создания таблиц. */
 define('DB_CHARSET', 'utf8');
