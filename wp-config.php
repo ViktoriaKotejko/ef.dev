@@ -29,7 +29,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'Vika23132009');
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'localdb');
+define('DB_HOST', 'localhost');
 
 /** Кодировка базы данных для создания таблиц. */
 define('DB_CHARSET', 'utf8');
