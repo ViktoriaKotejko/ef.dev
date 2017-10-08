@@ -1,1 +1,1 @@
-<?php $abspath = 'C:\\OpenServer\\domains\\ef.dev/'; ?>
+<?php $abspath = 'var\\www\\html\\ef.dev/'; ?>
